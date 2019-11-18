@@ -45,5 +45,5 @@ class Shoe
   end
 end
 
-  Shoe.new
+  shoe.new
 # Make your shoe class here!
